@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sami Sabeeh
 - 👀 I’m interested in improving my ability to be an app developer.
-- 🌱 I’m currently learning to create a functional website with flask.
+- 🌱 I’m currently honing my skills in pursuit for a full time software engineering role.
 - 📫 How to reach me- samsabeeh6@gmail.com 443-886-4558
 
 <!---
